@@ -1,6 +1,6 @@
 import * as React from "react";
 import Button from "@mui/material/Button";
-import "../css/Navbar.css";
+import "../css/NavBar.css";
 import MAI_Logo from "../assets/MAI_Logo.svg";
 import cart from "../assets/cart.svg";
 export default function ButtonAppBar() {
