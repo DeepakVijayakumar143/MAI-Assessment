@@ -1,0 +1,20 @@
+.live-project-top {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 20px;
+  align-items: center;
+}
+.live-project-bottom {
+  display: flex;
+}
+.view-all {
+  display: flex;
+  justify-content: flex-end;
+  color: #0d99ff;
+  font-size: 24px;
+  font-weight: 700;
+  padding: 20px;
+}
+.live-project {
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.25);
+}

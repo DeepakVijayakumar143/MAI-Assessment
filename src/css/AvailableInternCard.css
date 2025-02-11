@@ -1,0 +1,21 @@
+.absolute {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.intern-card {
+  position: relative;
+}
+.blue-background {
+  height: 30%;
+  background-color: #003f6b;
+  border-radius: 20px;
+}
+.intern-card-flex {
+  width: max-content;
+  display: flex;
+}

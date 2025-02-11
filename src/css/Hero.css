@@ -1,0 +1,28 @@
+.hero {
+  background-image: linear-gradient(to right, #003f6b, #fff);
+  display: flex;
+  justify-content: space-between;
+}
+.hero-left {
+  padding-left: 8%;
+}
+.h1 {
+  font-size: 70px;
+  margin: 0;
+  color: #fff;
+  font-family: var(--font-family-h1);
+}
+.hero-right {
+  display: flex;
+}
+.hero-image {
+  right: 7%;
+  position: absolute;
+}
+.triangle-left {
+  width: 0;
+  /* height: 0; */
+  border-top: 150px solid transparent;
+  border-right: 200px solid #fff;
+  border-bottom: 150px solid transparent;
+}
